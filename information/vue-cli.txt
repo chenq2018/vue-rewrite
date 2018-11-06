@@ -1,0 +1,27 @@
+vue-cli使用步骤
+1. npm install vue-cli -g
+2. vue init webpack 项目名字
+3. 在安装过程中可以一直回车到vue-router
+4. 终端上会有一个提示 cd 项目名字
+5. 进入项目中 执行 npm run dev
+6. 在浏览器中输入 localhost:8080
+
+相互之间讲一下vue-cli中项目解构
+
+自己配置路由 和子路由
+
+练习es6中的导入导出 export export default
+
+
+// git 本地仓库向远程仓库推送代码
+git add ./
+git commit -m "first commit"
+git remote add origin 自己远程仓库地址     （远程仓库一定要是空仓库，不能有初始的readme.md文件）
+git push -u origin master
+
+// 克隆方式
+git clone git@gitee.com:klxin/vue-project-desc2.git
+将vue-cli代码复制粘贴到vue-project-desc2 --- cnpm i
+git add ./
+git commit -m 'dd'
+git push

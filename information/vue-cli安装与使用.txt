@@ -1,0 +1,7 @@
+vue-cli使用步骤:
+1. npm install vue-cli -g
+2. vue init webpack 项目名称
+3. 在安装过程中可以一直回车到vue-router，选择yes后，后面的都可以选择n
+4. 终端上会有一个提示cd项目名字
+5. 进入项目中 执行命令 npm run dev
+6. 在浏览器中输入 localhost:8080
